@@ -8,7 +8,7 @@ The reason this was made into a repo is because I ran into an issue where alpha 
 
 ## Instructions
 
-1. clone this repo
+1. Copy the files in "src" to your xcode project.
 2. Modify your Info.plist to include the following:
 
 ```xml
